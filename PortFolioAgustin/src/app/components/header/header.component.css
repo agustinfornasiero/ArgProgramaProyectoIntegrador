@@ -1,8 +1,15 @@
 div{
-    background-color: rgb(33, 37, 41);
+   /* background-color: rgb(33, 37, 41);*/
+   background-color: #395e75;
+   position: fixed;
+   width: 100%;
+   top: 0;
+   left: 0;
+   z-index: 99;
 }
 
 app-social {
     float:right;
-    margin-top: 25px;
+    margin-top: 20px;
+   
 }
